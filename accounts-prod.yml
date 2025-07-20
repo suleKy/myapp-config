@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to SBank accounts related prod APIs "
   contactDetails:
     name: "Developer"
-    email: "developer@gmail.com"
+    email: "{cipher}0477d9bf18c36b80808678d5aacdbfcc7107ec461ea430173539c8ae6ecdddbe17b12e0e567fb8c1e4f74e85f2e406e0"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
